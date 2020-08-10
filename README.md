@@ -63,10 +63,10 @@ https://nodejs.org/en/
 https://gitforwindows.org/
 
 # Clonar o repositório
-git clone https://github.com/jhonathannc/nextlevelweek2
+git clone https://github.com/lblanco1/nlw
 
 # Entrar no diretório
-cd nextlevelweek2
+cd nlw
 
 # Baixar as dependências
 npm i
