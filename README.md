@@ -27,7 +27,7 @@ Proffy - Rocketseat
 
 - Mobile
 <p align="center">
-  <img src="https://ibb.co/fvv4FTv" width="500" >
+  <img src="https://i.ibb.co/NSSZCGS/nlw-bobile.png" width="500" >
 </p>
 
 ---
